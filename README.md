@@ -6,10 +6,10 @@ React JS Web Application using React Hooks to calculate interest tax.
 
 **Single Page Application:** https://react-juros-compostos.web.app/
 
-![app react-juros-compostos](https://github.com/V-Coyote/react-juros-compostos/blob/master/public/react-juros-compostos1.png?raw=true)
+![app react-juros-compostos](https://github.com/Vinicius-A-R/react-juros-compostos/blob/master/public/react-juros-compostos1.png?raw=true)
 
 
-![app react-juros-compostos](https://github.com/V-Coyote/react-juros-compostos/blob/master/public/react-juros-compostos2.png?raw=true)
+![app react-juros-compostos](https://github.com/Vinicius-A-R/react-juros-compostos/blob/master/public/react-juros-compostos2.png?raw=true)
 
 ## How to start in your machine
 
